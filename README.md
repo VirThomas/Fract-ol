@@ -5,9 +5,9 @@ This project was given to teach us how to handle events.
 
 Make and run with a name as an argument.
 
-Try : Julia
+Try : Julia.
 
-WASD to move
+WASD to move.
 
 +/- to change color panel.
 
