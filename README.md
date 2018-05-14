@@ -7,11 +7,7 @@ Make and run with a name as an argument.
 
 Try : Julia
 
-  W   |
-  
-      | Controls to move
-      
-A S D |
+WASD to move
 
 +/- to change color panel.
 
