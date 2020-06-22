@@ -3,7 +3,6 @@
 
 This project was given to teach us how to handle events.
 
-!! Please remove the flag -lmlx if you are launching from anywhere but the school 42 !!
 Make and run with a name as an argument.
 
 Try : Julia.
