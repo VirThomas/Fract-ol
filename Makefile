@@ -27,7 +27,7 @@ SRCS	= burning_ship.c \
 HEAD	= mlx/libmlx.a libft/libft.a
 OBJ		= $(SRCS:.c=.o)
 FLAGS	= -Wall -Wextra -Werror
-MLX		= cc -lmlx -framework OpenGL -framework AppKit -o
+MLX		= cc -framework OpenGL -framework AppKit -o
 
 all: $(NAME)
 
